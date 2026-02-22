@@ -28,7 +28,6 @@ Works in both **Claude.ai** (web/desktop) and **Claude Code** (CLI).
 #### Requirements
 
 **1. Claude.ai with Skills support**
-Skills are available on Pro, Team, and Enterprise plans.
 
 **2. MCP tool with filesystem access**
 Claude.ai cannot write files to your computer by default. You need an MCP (Model Context Protocol) tool that provides filesystem access. The recommended option is **Desktop Commander**:
@@ -156,7 +155,6 @@ On Windows: `C:\Users\name\Documents\MyVault\Notes`
 #### Требования
 
 **1. Claude.ai с поддержкой Skills**
-Skills доступны на планах Pro, Team и Enterprise.
 
 **2. MCP-инструмент с доступом к файловой системе**
 Claude.ai по умолчанию не может записывать файлы на компьютер пользователя. Нужен MCP-инструмент (Model Context Protocol). Рекомендуемый вариант — **Desktop Commander**:
